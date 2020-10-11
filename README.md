@@ -1,1 +1,3 @@
-# contra-app.github.io
+# Contra
+
+A sheltering performance tracker.
